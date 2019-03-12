@@ -67,5 +67,7 @@ public class MainActivity extends AppCompatActivity {
 ![image](https://github.com/Peiqiye/image/blob/master/图片4.png)
 
 5.运行效果截图：
-![image](https://github.com/Peiqiye/image/blob/master/图片5.png)
+
+<img weight="300" height="500" src="https://github.com/Peiqiye/image/blob/master/图片5.png"/>
+
 
