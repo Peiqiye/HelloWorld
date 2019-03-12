@@ -51,11 +51,18 @@ public class MainActivity extends AppCompatActivity {
 
 
 1.开始运行：
+
 ![image](https://github.com/Peiqiye/image/blob/master/图片1.png)
+
 2.后台运行：
+
 ![image](https://github.com/Peiqiye/image/blob/master/图片2.png)
+
 3.再次打开：
+
 ![image](https://github.com/Peiqiye/image/blob/master/图片3.png)
+
 4.结束
+
 ![image](https://github.com/Peiqiye/image/blob/master/图片4.png)
 
