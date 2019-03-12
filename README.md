@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 2.后台运行：
 ![image](https://github.com/Peiqiye/image/blob/master/图片2.png)
 3.再次打开：
-![image]()
+![image](https://github.com/Peiqiye/image/blob/master/图片3.png)
 4.结束
 ![image]()
 
