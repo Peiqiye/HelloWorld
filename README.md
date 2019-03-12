@@ -1,5 +1,6 @@
 # helloWorld
 -------------------------------------------------------------
+主要代码
 MainActivity.java
 ------------------------
 package com.example.asus.helloworld;
